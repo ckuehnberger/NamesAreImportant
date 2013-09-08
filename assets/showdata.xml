@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="ISO-8859-1"?> 
 <index>
 	<show>
+
+		<!-- images -->
+		<poster><![CDATA[<img src="assets/img/poster/almosthuman1.jpg"/>]]></poster>
 		<!-- should content be further separated and nested? -->
 		<title>Almost Human</title>
 		<firstAired>November 4, 2013</firstAired>
 		<airDate>Monday</airDate>
 		<airTime>8:00 PM</airTime>
-		<genre>Drama</genre>
+		<genre>
+		</genre>
 		<network>FOX</network>
 
 		<!-- unsure of usage -->
@@ -31,6 +35,8 @@
 	</show>
 
 	<show>
+		<!-- images -->
+		<poster><![CDATA[<img src="assets/img/poster/dracula1.jpg"/>]]></poster>
 		<!-- should content be further separated and nested? -->
 		<title>Dracula</title>
 		<firstAired>October 25, 2013</firstAired>

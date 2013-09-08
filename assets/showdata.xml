@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<index>
+	<show>
+		<!-- should content be further separated and nested? -->
+		<title>Almost Human</title>
+		<firstAired>November 4, 2013</firstAired>
+		<airDate>Monday</airDate>
+		<airTime>8:00 PM</airTime>
+		<genre>Drama</genre>
+		<network>FOX</network>
+
+		<!-- unsure of usage -->
+
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- not currently in use -->
+
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+		<!-- should content be further separated and nested? -->
+		<title>Dracula</title>
+		<firstAired>October 25, 2013</firstAired>
+		<airDate>Friday</airDate>
+		<airTime>10:00 PM</airTime>
+		<genre>Drama</genre>
+		<network>NBC</network>
+
+		<!-- unsure of usage -->
+
+		<imdb></imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix></netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- not currently in use -->
+
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+</index>

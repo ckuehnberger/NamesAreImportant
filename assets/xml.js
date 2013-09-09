@@ -16,10 +16,13 @@ xmlDoc=xmlhttp.responseXML;
 // Right now this is just placeholder code to help me visualize how the xml works together with js and html.
 // http://stackoverflow.com/questions/802854/why-is-document-write-considered-a-bad-practice
 
-document.write("<ul>");
+
+
+
 var x=xmlDoc.getElementsByTagName("show");
 for (i=0;i<x.length;i++)
   { 
+  	document.write("<ul>");
   document.write("<li><h1>");
   document.write(x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
   document.write("</h1></li><li>");
@@ -35,6 +38,8 @@ for (i=0;i<x.length;i++)
   document.write("</li><li>");
     document.write(x[i].getElementsByTagName("network")[0].childNodes[0].nodeValue);
   document.write("</li>");
+document.write("</ul>");
+
 
   }
-document.write("</ul>");
+

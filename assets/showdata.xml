@@ -1,20 +1,33 @@
-<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml version="1.0" encoding="UTF-8"?> 
 <index>
 	<show>
 
-		<!-- images -->
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
 		<poster><![CDATA[<img src="assets/img/poster/almosthuman1.jpg"/>]]></poster>
-		<!-- should content be further separated and nested? -->
+		<banner><![CDATA[<img src="assets/img/banner/almosthumanbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
 		<title>Almost Human</title>
-		<firstAired>November 4, 2013</firstAired>
-		<airDate>Monday</airDate>
+		<airPremiere>
+			<month>November</month>
+			<day>4</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Monday</airDay>
 		<airTime>8:00 PM</airTime>
-		<genre>
-		</genre>
+		<genres>
+			<genre1>action</genre1>
+			<genre2>drama</genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
 		<network>FOX</network>
 
-		<!-- unsure of usage -->
-
+		<!-- extras  -->
 		<imdb>imdb</imdb>
 		<metacritic></metacritic>
 		<tvDotCom></tvDotCom>
@@ -24,8 +37,7 @@
 		<comcast></comcast>
 
 
-		<!-- not currently in use -->
-
+		<!-- unused  -->
 		<format></format>
 		<producer></producer>
 		<director></director>
@@ -35,29 +47,42 @@
 	</show>
 
 	<show>
-		<!-- images -->
-		<poster><![CDATA[<img src="assets/img/poster/dracula1.jpg"/>]]></poster>
-		<!-- should content be further separated and nested? -->
-		<title>Dracula</title>
-		<firstAired>October 25, 2013</firstAired>
-		<airDate>Friday</airDate>
-		<airTime>10:00 PM</airTime>
-		<genre>Drama</genre>
-		<network>NBC</network>
 
-		<!-- unsure of usage -->
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/backinthegame1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/gamebanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Back in the Game</title>
+		<airPremiere>
+			<month>September</month>
+			<day>25</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Wednesday</airDay>
+		<airTime>8:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2>Family</genre2>
+			<genre3>Sport</genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+		</genres>
+		<network>ABC</network>
 
-		<imdb></imdb>
+		<!-- extras  -->
+		<imdb>imdb</imdb>
 		<metacritic></metacritic>
 		<tvDotCom></tvDotCom>
 		<hulu></hulu>
-		<netflix></netflix>
+		<netflix>netflix</netflix>
 		<amazon></amazon>
 		<comcast></comcast>
 
 
-		<!-- not currently in use -->
-
+		<!-- unused  -->
 		<format></format>
 		<producer></producer>
 		<director></director>
@@ -65,4 +90,1342 @@
 		<writer></writer>
 		<transTitle></transTitle>
 	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/betrayal1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/betrayalbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Betrayal</title>
+		<airPremiere>
+			<month>September</month>
+			<day>29</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Sunday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>ABC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/blacklist1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/blacklistbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>The Blacklist</title>
+		<airPremiere>
+			<month>September</month>
+			<day>23</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Monday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2>Crime</genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>NBC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/brooklyn991.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/brooklyn99banner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Brooklyn Nine-Nine</title>
+		<airPremiere>
+			<month>September</month>
+			<day>17</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>8:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>FOX</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/coldjustice1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/coldjusticebanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Cold Justice</title>
+		<airPremiere>
+			<month>September</month>
+			<day>3</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2>Crime</genre2>
+			<genre3>Reality</genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>TNT</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/crazyones1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/crazyonesbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>The Crazy Ones</title>
+		<airPremiere>
+			<month>September</month>
+			<day>26</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Thursday</airDay>
+		<airTime>9:00 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>CBS</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/dads1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/dadsbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Dads</title>
+		<airPremiere>
+			<month>September</month>
+			<day>17</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>8:00 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>FOX</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/dracula1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/draculabanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Dracula</title>
+		<airPremiere>
+			<month>October</month>
+			<day>25</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Friday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>NBC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/enlisted1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/enlistedbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Enlisted</title>
+		<airPremiere>
+			<month>November</month>
+			<day>8</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Friday</airDay>
+		<airTime>9:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>FOX</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/goldbergs1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/goldbergsbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>The Goldbergs</title>
+		<airPremiere>
+			<month>September</month>
+			<day>24</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>9:00 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>ABC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/helloladies1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/helloladiesbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Hello Ladies</title>
+		<airPremiere>
+			<month>September</month>
+			<day>29</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Sunday</airDay>
+		<airTime>???</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>HBO</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/hostages3.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/hostagesbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Hostages</title>
+		<airPremiere>
+			<month>September</month>
+			<day>23</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Monday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>CBS</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/ironside1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/ironsidebanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Ironside</title>
+		<airPremiere>
+			<month>October</month>
+			<day>2</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Wednesday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Action</genre1>
+			<genre2>Crime</genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>NBC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/lucky71.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/lucky7banner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Lucky 7</title>
+		<airPremiere>
+			<month>September</month>
+			<day>24</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>ABC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/mastersofsex1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/mastersofsexbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Masters of Sex</title>
+		<airPremiere>
+			<month>September</month>
+			<day>29</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Sunday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>Showtime</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/millers1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/millersbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>The Millers</title>
+		<airPremiere>
+			<month>September</month>
+			<day>26</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>8:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>CBS</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/mjfox1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/mjfoxbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>The Michael J. Fox Show</title>
+		<airPremiere>
+			<month>September</month>
+			<day>26</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Thursday</airDay>
+		<airTime>9:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>NBC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/mom1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/mombanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Mom</title>
+		<airPremiere>
+			<month>September</month>
+			<day>23</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Monday</airDay>
+		<airTime>9:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>CBS</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/wonderland1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/wonderlandbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Once Upon a Time in Wonderland</title>
+		<airPremiere>
+			<month>October</month>
+			<day>10</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Thursday</airDay>
+		<airTime>8:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2>Fantasy</genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>ABC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/originals1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/originalsbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>The Originals</title>
+		<airPremiere>
+			<month>October</month>
+			<day>3</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>8:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2>Fantasy</genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>The CW</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/reign1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/reignbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Reign</title>
+		<airPremiere>
+			<month>October</month>
+			<day>17</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Thursday</airDay>
+		<airTime>9:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>The CW</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/superfunnight1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/superfunnightbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Super Fun Night</title>
+		<airPremiere>
+			<month>October</month>
+			<day>2</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Wednesday</airDay>
+		<airTime>9:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>ABC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/reign1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/reignbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Reign</title>
+		<airPremiere>
+			<month>October</month>
+			<day>17</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Thursday</airDay>
+		<airTime>9:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>The CW</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/sean1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/seanbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Sean Saves the World</title>
+		<airPremiere>
+			<month>October</month>
+			<day>3</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Thursday</airDay>
+		<airTime>9:00 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2>Family</genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>NBC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/thetomorrowpeople1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/thetomorrowpeoplebanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>The Tomorrow People</title>
+		<airPremiere>
+			<month>October</month>
+			<day>9</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Wednesday</airDay>
+		<airTime>9:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2>Fantasy</genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>The CW</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/trophywife1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/trophywifebanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Trophy Wife</title>
+		<airPremiere>
+			<month>September</month>
+			<day>24</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>9:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>ABC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/wearemen1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/wearemenbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>We Are Men</title>
+		<airPremiere>
+			<month>September</month>
+			<day>30</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Monday</airDay>
+		<airTime>8:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>CBS</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/welcometothefamily1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/welcometothefamilybanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Welcome to the Family</title>
+		<airPremiere>
+			<month>October</month>
+			<day>3</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Thursday</airDay>
+		<airTime>8:30 PM</airTime>
+		<genres>
+			<genre1>Comedy</genre1>
+			<genre2>Family</genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>NBC</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/witchesofeastend1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/witchesofeastendbanner1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>Witches of East End</title>
+		<airPremiere>
+			<month>October</month>
+			<day>6</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Sunday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>Lifetime</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+	<show>
+
+		<!-- images, cdata relative path	
+		poster: portrait, medium
+		banner: landscape, small -->
+		<poster><![CDATA[<img src="assets/img/poster/masterchefjunior1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/masterchefjunior1.jpg"/>]]></banner>
+		
+		<!-- main -->
+		<title>MasterChef Junior</title>
+		<airPremiere>
+			<month>October</month>
+			<day>6</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Sunday</airDay>
+		<airTime>10:00 PM</airTime>
+		<genres>
+			<genre1>Drama</genre1>
+			<genre2></genre2>
+			<genre3></genre3>
+			<genre4></genre4>
+			<genre5></genre5>
+
+		</genres>
+		<network>The CW</network>
+
+		<!-- extras  -->
+		<imdb>imdb</imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<!-- unused  -->
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+	
 </index>
+
+

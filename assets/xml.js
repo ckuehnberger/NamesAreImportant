@@ -23,26 +23,26 @@ var x=xmlDoc.getElementsByTagName("show");
 
 for (i=0;i<x.length;i++)
   { 
-    document.write("<ul>");
-         document.write("<li><h1>");
+    document.write("<ul class='showbox'>");
+         document.write("<li class='title'><h1>");
          document.write(x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
-         document.write("</h1></li><li>");
+         document.write("</h1></li><li class='poster'>");
          document.write(x[i].getElementsByTagName("poster")[0].childNodes[0].nodeValue);
-         document.write("</li><li>");
+         document.write("</li><li class='banner'>");
          document.write(x[i].getElementsByTagName("banner")[0].childNodes[0].nodeValue);
-         document.write("</li><li>");
+         document.write("</li><li class='premiere'>");
          document.write(x[i].getElementsByTagName("airDay")[0].childNodes[0].nodeValue);
-         document.write("</li><li>");
+         document.write("</li><li class='time'>");
          document.write(x[i].getElementsByTagName("airTime")[0].childNodes[0].nodeValue);
-         document.write("</li><li>");
+         document.write("</li><li class='date'>");
          document.write(x[i].getElementsByTagName("month")[0].childNodes[0].nodeValue);
-         document.write(", ");
+         document.write(" ");
          document.write(x[i].getElementsByTagName("day")[0].childNodes[0].nodeValue);
          document.write(", ");
          document.write(x[i].getElementsByTagName("year")[0].childNodes[0].nodeValue);
-         document.write("</li><li>");
+         document.write("</li><li class='genres'>");
          document.write(x[i].getElementsByTagName("genres")[0].childNodes[0].nodeValue);
-         document.write("</li><li>");
+         document.write("</li><li class='network'>");
          document.write(x[i].getElementsByTagName("network")[0].childNodes[0].nodeValue);
          document.write("</li>");
     document.write("</ul>");

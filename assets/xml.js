@@ -17,11 +17,10 @@ xmlDoc=xmlhttp.responseXML;
 
 // http://stackoverflow.com/questions/802854/why-is-document-write-considered-a-bad-practice
   
-
-
 var x=xmlDoc.getElementsByTagName("show");
 
 for (i=0;i<x.length;i++)
+  
   { 
     document.write("<ul class='showbox'>");
          document.write("<li class='title'><h1>");
@@ -48,4 +47,3 @@ for (i=0;i<x.length;i++)
     document.write("</ul>");
 
   }
-

@@ -1,5 +1,11 @@
-/* 
-Default Image sizes
-images    300 x 441px,  1:1.47
-banners   300 x 50px,   1:6  
-*/
+#womp {
+	border:5px solid black;
+}
+
+#pomp {
+	border:5px solid red;
+}
+
+#show {
+	border:5px solid green;
+}

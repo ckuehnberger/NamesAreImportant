@@ -1,15 +1,7 @@
-<!doctype HTML>
-<html lang="en-us">
-
-	<head>
-	<meta charset="utf-8">
-    <title>ShowApp | Fall 2013</title>
-    <script src="assets/jquery-1.10.2.min.js" type="text/javascript">
-    </script>
-    <script type="text/javascript">
-    $(document).ready(function()
+//notsure how to get it to use this script,.
+$(document).ready(function()
       {
-        $.get('assets/showdata.xml', function(d){
+        $.get('showdata.xml', function(d){
 
         $(d).find('show').each(function(){
             //finds each element in each <show> in the xml file and assigns the text to the respective variable
@@ -52,15 +44,3 @@
         });
     });
 });
-    </script>
-
-    
-</head>
-<body>
-    <section id="tags"></section>
-	<section id="showsection">
-    </section>
-
-
-</body>
-</html>

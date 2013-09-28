@@ -14,4 +14,22 @@ Test script for inserting XML into HTML -> xml.js </br>
 
 
 ## Sept 09, 2013 ##
-Updated XML file
+Updated XML file </br>
+
+
+## Sept 26, 2013 ##
+Switched from document.write js for XML insertion to jquery ->loadscript.js </br> 
+Updated html file: tag section, show section </br>
+
+## Sept 27, 2013 ##
+Updated XML file: genres, missing img, descriptions added </br>
+
+## Sept 28, 2013 ##
+Removed some unnecessary files (xml.js, testscript.js) </br>
+Merged to master </br>
+
+
+## TODO ##
+Lightbox thing </br>
+Modify how Time/Date are handled?? </br>
+Finish CSS </br>

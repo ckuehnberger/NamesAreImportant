@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <index>
+
+<!--TEMPLATE
+	<show>
+		<poster><![CDATA[<img src=""/>]]></poster>
+		<banner><![CDATA[<img src=""/>]]></banner>
+		
+		
+		<title></title>
+		<airPremiere>
+			<month></month>
+			<day></day>
+			<year></year>
+		</airPremiere>
+		<airDay></airDay>
+		<airTime></airTime>
+		<genres>
+			<genre></genre>
+			<genre></genre>
+		</genres>
+		<network></network>
+		<description>/description>
+
+		
+		<imdb></imdb>
+		<metacritic></metacritic>
+		<tvDotCom></tvDotCom>
+		<hulu></hulu>
+		<netflix>netflix</netflix>
+		<amazon></amazon>
+		<comcast></comcast>
+
+
+		<format></format>
+		<producer></producer>
+		<director></director>
+		<music></music>
+		<writer></writer>
+		<transTitle></transTitle>
+	</show>
+
+-->
+
 	<show>
 
 		<!-- images, cdata relative path	
@@ -18,32 +60,15 @@
 		<airDay>Monday</airDay>
 		<airTime>8:00 PM</airTime>
 		<genres>
-			<genre1>action</genre1>
-			<genre2>drama</genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
-
+			<genre>Action</genre>
+			<genre>Drama</genre>
+			<genre>SciFi</genre>
+			<genre>Crime</genre>
 		</genres>
 		<network>FOX</network>
+		<description>The year is 2048. Meet Detective JOHN KENNEX (Urban), a cop who survived one of the most catastrophic attacks ever made against the police department. After waking up from a 17-month coma, he can’t remember much — except that his partner was killed, he lost one of his legs and he is now outfitted with a highly sophisticated synthetic appendage. </description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		
 	</show>
 
 	<show>
@@ -64,35 +89,16 @@
 		<airDay>Wednesday</airDay>
 		<airTime>8:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2>Family</genre2>
-			<genre3>Sport</genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+			<genre>Sport</genre>
 		</genres>
 		<network>ABC</network>
+		<description>Terry Gannon Jr. (Maggie Lawson) was an All Star softball player until life threw her a couple curve balls: a baby, a lost college scholarship and a loser for a husband. After striking out on her own, Terry and her son Danny (Griffin Gluck) move in with her estranged father, Terry Sr. aka “The Cannon” (James Caan).</description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
-
 		<!-- images, cdata relative path	
 		poster: portrait, medium
 		banner: landscape, small -->
@@ -109,32 +115,13 @@
 		<airDay>Sunday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Serial Drama</genre>
 
 		</genres>
 		<network>ABC</network>
+		<description>A chance meeting between Sara Hanley (Hannah Ware), a professional photographer, and Jack McAllister (Stuart Townsend), a top attorney, leads to an instant and undeniable attraction. Sara's husband, Drew Stafford (Chris Johnson), is a successful prosecutor with political aspirations, and the couple have a seven-year-old, Oliver. Unbeknownst to Sara, Jack is in-house counsel to a powerful but somewhat shady entrepreneur, Thatcher Karsten (James Cromwell), and is married to Thatcher's daughter, Elaine (Wendy Moniz). Elaine, secure in her relationship with Jack, is a smart, determined woman attempting to make her Chicago café a success on her own terms, as well as be a good mother to the couples' 16-year-old twins, Valerie (Elizabeth McLaughlin) and Victor (Braeden Lemasters). However Sara and Jack both realize something is missing in their marriages, and fight against the realization that they've met their soul mates in one another.</description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -155,32 +142,13 @@
 		<airDay>Monday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2>Crime</genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Crime</genre>
 
 		</genres>
 		<network>NBC</network>
+		<description>For decades, ex-government agent Raymond "Red" Reddington (James Spader, "The Office," "Boston Legal") has been one of the FBI's most wanted fugitives. Brokering shadowy deals for criminals across the globe, Red was known by many as "The Concierge of Crime." Now, he's mysteriously surrendered to the FBI with an explosive offer: He will help catch a long-thought-dead terrorist, Ranko Zamani, under the condition that he speaks only to Elizabeth "Liz" Keen (Megan Boone, "Law &amp; Order: Los Angeles"), an FBI profiler fresh out of Quantico. For Liz, it's going to be one hell of a first day on the job. </description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -201,32 +169,14 @@
 		<airDay>Tuesday</airDay>
 		<airTime>8:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Crime</genre>
+			<genre>Work</genre>
+
 
 		</genres>
 		<network>FOX</network>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -247,32 +197,14 @@
 		<airDay>Tuesday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2>Crime</genre2>
-			<genre3>Reality</genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Documentary</genre>
+			<genre>Crime</genre>
+			<genre>Reality</genre>
 
 		</genres>
 		<network>TNT</network>
+		<description>BROOKLYN NINE-NINE is a workplace comedy that's not really about the job. It's about the men and women behind the badge – singing karaoke, grabbing a beer, and dabbling in each other's personal lives– all while protecting the fine people of Brooklyn</description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -293,32 +225,11 @@
 		<airDay>Thursday</airDay>
 		<airTime>9:00 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
-
+			<genre>Comedy</genre>
+			<genre>Work</genre>
 		</genres>
 		<network>CBS</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>Academy Award winner Robin Williams returns to series television in THE CRAZY ONES, a single-camera workplace comedy about a larger-than-life advertising genius whose unorthodox methods and unpredictable behavior would get him fired... if he weren't the boss. Simon Roberts is the head of a powerful agency, with the biggest clients and brands in the world, but even more important to him is having his daughter Sydney by his side. As his partner, Sydney is Simon's exact opposite - focused, organized and eager to make a name for herself, but also too busy parenting her father, which she'd resent if he wasn't so brilliant at what he does. Joining them in the firm are the dashing and talented Zach; art director Andrew, who's as hard-working as he is neurotic; and the beautiful and deceptively smart assistant Lauren. With his team and his daughter behind him, Simon continues to set the advertising world on fire, and it looks like they are definitely buying what these crazy ones are selling. </description>		
 	</show>
 
 	<show>
@@ -339,32 +250,14 @@
 		<airDay>Tuesday</airDay>
 		<airTime>8:00 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
 
 		</genres>
 		<network>FOX</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>From Seth MacFarlane, Alec Sulkin and Wellesley Wild, the creatively outrageous minds behind last year's highest-grossing feature comedy, “Ted,” and FOX's hit animated series FAMILY GUY, DADS explores the often treacherous terrain of the father-son landscape. The multi-camera comedy series follows two successful guys – and childhood best friends – now in their mid-30s, whose relatively stable lives get turned upside down when their inappropriate and pain-in-the-neck patriarchs move in.</description>
+	
+		
 	</show>
 
 	<show>
@@ -385,32 +278,18 @@
 		<airDay>Friday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Supernatural</genre>
+			<genre>Period Piece</genre>
+			<genre>Adaptation</genre>
+			<genre>Horror</genre>
+
+
 
 		</genres>
 		<network>NBC</network>
+		<description>It's the late 19th century, and the mysterious Dracula has arrived in London, posing as an American entrepreneur who wants to bring modern science to Victorian society. He's especially interested in the new technology of electricity, which promises to brighten the night - useful for someone who avoids the sun. But he has another reason for his travels: he hopes to take revenge on those who cursed him with immortality centuries earlier. Everything seems to be going according to plan... until he becomes infatuated with a woman who appears to be a reincarnation of his dead wife.</description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -431,32 +310,21 @@
 		<airDay>Friday</airDay>
 		<airTime>9:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Military</genre>
+			<genre>Bros</genre>
+			<genre>Family</genre>
+		
 
 		</genres>
 		<network>FOX</network>
+		<description>Three brothers, one Army, but absolutely no fighting!
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
+ENLISTED is an irreverent but heartfelt single-camera comedy about three brothers on a small Florida Army base and the group of misfits who surround them.
 
+Charming, funny and a natural-born leader, Sergeant PETE HILL (Geoff Stults, "Ben and Kate," "The Finder") was on a path for a huge military career until one mistake overseas got him booted stateside to Fort McGee, the base in Florida where his two younger brothers are stationed. Now, as head of their platoon, Pete must serve both as big brother and military boss. Corporal DERRICK HILL (Chris Lowell, "Private Practice," "Veronica Mars") is the middle brother - smart and sarcastic, he likes to stir up trouble and doesn't really care about being a soldier. Private RANDY HILL (Parker Young, "Suburgatory"), on the other hand, loves it. He's the hyper-enthusiastic, hyper-goofy - just hyper - youngest brother who wants to be the gung-ho "GI Joe" military ideal. </description>
 
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		
 	</show>
 
 	<show>
@@ -477,32 +345,14 @@
 		<airDay>Tuesday</airDay>
 		<airTime>9:00 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Period Piece</genre>
+			<genre>Family</genre>
 
 		</genres>
 		<network>ABC</network>
+		<description>Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the ‘80s. For geeky 11-year old Adam (Sean Giambrone) these were his wonder years and he faced them armed with a video camera to capture all the crazy. The Goldbergs are a loving family like any other, just with a lot more yelling. Mom Beverly (Wendi McLendon-Covey) is a classic “smother;” an overbearing, overprotective matriarch who rules this brood with 100% authority and zero sense of boundaries. Dad Murray (Jeff Garlin) is gruff, hot-tempered and trying to parent without screaming. Sister Erica (Hayley Orrantia) is 17, hot, terrifying and not one to mess with. Barry (Troy Gentile) is 16, an overly emotional teen with severe middle child syndrome. Adam (Sam Giambrone) is the youngest, a camera-wielding future director who’s crushing on an older woman. Rounding out the family is beloved grandfather Al “Pops” Solomon (George Segal), the wild man of the clan, a shameless Don Juan who’s schooling Adam in the ways of love. When Pops buys a new sports car and offers his Caddy to middle child Barry, it’s enough to drive this already high-strung family to the brink of chaos.</description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -521,34 +371,15 @@
 			<year>2013</year>
 		</airPremiere>
 		<airDay>Sunday</airDay>
-		<airTime>???</airTime>
+		<airTime>10:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
 
 		</genres>
 		<network>HBO</network>
+		<description>  In his first starring series role, Stephen Merchant portrays Stuart, a web designer who recently relocated to LA from England in hopes of finding excitement, romance, and maybe even a soul mate. Working out of his LA home, Stuart has an easy rapport with an attractive roommate named Jessica (Christine Woods), though it is clear she's not romantically interested in him. Half as charming as he thinks he is – and twice as desperate – Stuart is obsessed with infiltrating the glamorous world of beautiful people, and doggedly hits the LA social scene in the company of pals Wade (Nate Torrence), who's in the throes of a separation from his wife, and Kives (Kevin Weisman), a charismatic paraplegic who fares far better with the ladies than Stuart or Wade.</description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		
 	</show>
 
 
@@ -570,32 +401,13 @@
 		<airDay>Monday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Thriller</genre>
 
 		</genres>
 		<network>CBS</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>HOSTAGES, from executive producer Jerry Bruckheimer, stars Emmy Award winner Toni Collette and Golden Globe Award winner Dylan McDermott in a high-octane suspense drama about Dr. Ellen Sanders, a premiere surgeon thrust into a chilling political conspiracy when her family is taken hostage by rogue FBI Agent Duncan Carlisle. Ellen and her family are held captive in their home by Carlisle, a desperate man doing the wrong thing for the right reasons, who orders her to assassinate the President when she operates on him. His highly skilled accomplices include his brother-in-law Kramer, whose loyalty to Carlisle will be tested; quick-tempered and intimidating Archer, an ex-military man with a razor-sharp tongue; and the only woman involved, Sandrine, a mysterious last-minute replacement to the team. With her family's life in peril, Ellen faces an incomprehensible moral dilemma in order to save her overbearing husband Brian, her secretive daughter Morgan and her not-so-innocent son Jake. In this high-stakes standoff between Ellen and Carlisle, fraught with tremendous national and personal consequences, the choices between right and wrong become even more blurred.</description>
+		
 	</show>
 
 	<show>
@@ -616,32 +428,17 @@
 		<airDay>Wednesday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Action</genre1>
-			<genre2>Crime</genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Crime</genre>
+			<genre>Police Procedural</genre>
+			<genre>Remake</genre>
 
 		</genres>
 		<network>NBC</network>
+		<description>n the gritty world of the NYPD, no one's tougher than Det. Robert Ironside (Blair Underwood, "In Treatment"). He is fearless; his instincts are second to none, and those around him must stay on their toes if they want to keep up. When his spine was shattered by a bullet two years ago, he swore he'd never let a wheelchair slow him down.
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
+Ironside and his trusted, handpicked team of detectives each offer a unique background, perspective and skill set. Comprising the team are Virgil (Pablo Schreiber, "The Wire"), a man who wrestles with the dichotomy of being one of NYPD's toughest cops in the city, yet a loving family man at home where he imparts life lessons to his children that he does not necessarily follow in the line of duty; Holly (Spencer Grammer, "Greek"), a strong, feisty detective who loves the rush of being undercover and the danger that goes with the job and who has mysterious family ties to the Brooklyn underworld; and Teddy (Neal Bledsoe, "Smash"), a rich, highly-educated young cop who has never been good with authority and is connected in a way that only those born into wealth enjoy. Their boss, Capt. Ed Rollins (Kenneth Choi, "Sons of Anarchy"), calm and pragmatic, handles situations with a level head and cool demeanor. He and Ironside share a mutual respect and admiration for each other despite their push-pull relationship.</description>
 
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -662,32 +459,16 @@
 		<airDay>Tuesday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Adaptation</genre>
 
 		</genres>
 		<network>ABC</network>
+		<description>What would you do if you won the lottery? How would it change your life? Follow a group of seven gas station employees in Queens, New York, who have been chipping into a lottery pool for years, never thinking they'd actually win. They need to be careful what they wish for, because while the money could solve problems for each of them, it will forever change the close-knit bonds these friends have formed, in ABC's new drama, "Lucky 7".
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
+Nestled in the culturally diverse neighborhood of Astoria, the Gold Star Gas N' Shop is home to a surrogate family of co-workers whose lives will be transformed by an unexpected lottery win. Aside from the money, relationships will change as the trust between two brothers will be uprooted, budding romances will develop and secrets will come to the surface. </description>
 
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		
 	</show>
 
 	<show>
@@ -708,32 +489,13 @@
 		<airDay>Sunday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Period Piece</genre>
+			<genre>Black Comedy</genre>
 
 		</genres>
 		<network>Showtime</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>MASTERS OF SEX is a one-hour drama starring Emmy® and BAFTA Award nominee Michael Sheen and acclaimed actress Lizzy Caplan, who will portray the real-life pioneers of the science of human sexuality, William Masters and Virginia Johnson. The series chronicles the unusual lives, romance, and pop culture trajectory of Masters and Johnson. Their research touched off the sexual revolution and took them from a midwestern teaching hospital in St. Louis to the cover of Time magazine and nearly a dozen appearances on Johnny Carson's couch.</description>
 	</show>
 
 	<show>
@@ -755,31 +517,11 @@
 		<airTime>8:30 PM</airTime>
 		<genres>
 			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+
 
 		</genres>
 		<network>CBS</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>THE MILLERS stars Will Arnett as Nathan Miller, a recently divorced local roving news reporter looking forward to living the singles life until his parents' marital problems unexpectedly derail his plans. After Nathan finally breaks the news of his divorce to his parents, Carol and Tom, his father is inspired to follow suit and stuns the family when he leaves his wife of 43 years. Already in shock, Nathan is even more aghast when his meddlesome mom decides to move in with him. Meanwhile, his absent-minded dad imposes upon Nathan's sister Debbie, her husband Adam and their daughter. Nathan's best friend and news cameraman Ray was excited to be Nathan's wingman in the dating scene, but Carol manages to even cramp his style. Now, as Nathan and his sister settle in with their truly impossible parents, they both wonder just how long the aggravating adjustment period is going to last.</description>
 	</show>
 
 	<show>
@@ -800,32 +542,15 @@
 		<airDay>Thursday</airDay>
 		<airTime>9:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Mockumentary</genre>
+
 
 		</genres>
 		<network>NBC</network>
+		<description>Look who's making the news again! One of NY's most beloved news anchors, Mike Henry (Michael J. Fox, "Spin City", "Family Ties"), put his career on hold to spend more time with his family and focus on his health after he was diagnosed with Parkinson's. But now five years later, with the kids busy growing up and Mike growing restless, it just might be time for him to get back to work. Having never wanted Mike to leave in the first place, his old boss Harris Green (Wendell Pierce, "Treme", "The Wire") jumped at the chance to get him back on TV. The trick, as it's always been, was to make Mike think it was his idea. After several - okay, many - failed attempts, Mike's family, anxious to see him out of the house, finally succeeded in getting him to "run into" Green. Now their plan is in motion. He'll be back to juggling home, family and career, just like the old days - only better. </description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		
 	</show>
 
 	<show>
@@ -846,32 +571,13 @@
 		<airDay>Monday</airDay>
 		<airTime>9:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+
 
 		</genres>
 		<network>CBS</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>From hit-maker Chuck Lorre comes his next big comedy‐an irreverent and outrageous take on true family love‐and dysfunction. Newly sober single mom Christy struggles to raise two children in a world full of temptations and pitfalls. Testing her sobriety is her formerly estranged mother, now back in Christy's life and eager to share passive-aggressive insights into her daughter's many mistakes. </description>
 	</show>
 
 	<show>
@@ -892,32 +598,16 @@
 		<airDay>Thursday</airDay>
 		<airTime>8:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2>Fantasy</genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Fantasy</genre>
+			<genre>Mystery</genre>
+			<genre>Adaptation</genre>
+
 
 		</genres>
 		<network>ABC</network>
+		<description>In Victorian England, young and beautiful Alice (Sophie Lowe) tells an impossible tale of a strange new land that exists on the other side of a rabbit hole. An invisible cat, a hookah-smoking caterpillar and playing cards that can talk are just some of the fantastic things she's seen during her adventure. Surely this troubled girl must be insane. Her doctors intend to cure her with a treatment that will make her forget—everything. Alice seems ready to put it all behind her, especially the painful memory of the genie she fell in love with and lost forever, the handsome and mysterious Cyrus (Peter Gadiot). But in her heart Alice knows this world is real, and just in the nick of time the sardonic Knave of Hearts (Michael Socha) and the irrepressible White Rabbit (John Lithgow) arrive to save her from her fate. Together the trio will take a tumble down the rabbit hole to a Wonderland where nothing is impossible.</description>
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -938,32 +628,19 @@
 		<airDay>Tuesday</airDay>
 		<airTime>8:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2>Fantasy</genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Horror</genre>
+			<genre>Supernatural</genre>
+			<genre>Fantasy</genre>
+
 
 		</genres>
 		<network>The CW</network>
+		<description>Family is power. The Original Vampire family swore it to each other a thousand years ago. They pledged to remain together, always and forever. Now, centuries have passed, and the bonds of family are broken. Time, tragedy and hunger for power have torn the Original Family apart.
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
+Klaus Mikaelson, the original vampire-werewolf hybrid, has returned to New Orleans, the city his family helped build, the city from which he and his siblings – Elijah and Rebekah – were exiled a century ago by their relentless hunter father. Drawn back by a mysterious tip that a plot is brewing against him in the supernatural melting pot that is the French Quarter, Klaus is surprised that the city still feels like home to him despite the decades he’s been away. Curious as to why Klaus would return to the one place he swore he would never set foot again, Elijah follows his brother and learns that the beautiful and rebellious werewolf Hayley – Klaus’ onetime flame – has also come to the French Quarter searching for clues to her family history. Hayley has fallen into the hands of a powerful witch named Sophie Deveraux. When Sophie reveals to the brothers the almost unbelievable news that Hayley is carrying Klaus’ unborn child, Elijah realizes that the Original family has been given a second chance at humanity and the redemption they desperately crave. </description>
 
 
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
 
 	<show>
@@ -984,32 +661,16 @@
 		<airDay>Thursday</airDay>
 		<airTime>9:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Serial Drama</genre>
+			<genre>Period Piece</genre>
+
 
 		</genres>
 		<network>The CW</network>
+		<description>Hidden between the lines of the history books is the story of Mary Stuart, the young woman the world would come to know as Mary, Queen of Scots. The teenage Mary is already a headstrong monarch ─ beautiful, passionate and poised at the very beginning of her tumultuous rise to power.
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+Arriving in France with four close friends as her ladies-in-waiting, Mary has been sent to secure Scotland’s strategic alliance by formalizing her arranged engagement to the French king’s dashing son, Prince Francis. But the match isn’t signed and sealed, it depends more on politics, religion and secret agendas than affairs of the heart. Prince Francis is intrigued by the fiery Scot, but like most young men, he resists the idea of settling down into marriage, especially when he has a history with a lady of the court and his own point of view on the wisdom of an alliance with Scotland. Still, an attraction between Mary and Francis is ignited.</description>
 	</show>
 
 	<show>
@@ -1030,87 +691,22 @@
 		<airDay>Wednesday</airDay>
 		<airTime>9:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+
 
 		</genres>
 		<network>ABC</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>Junior attorney Kimmie Boubier (Rebel Wilson) and her two best friends Helen-Alice (Liza Lapira) and Marika (Lauren Ash) have had a standing date every Friday night for the last 13 years. They even have a motto for what they call “Friday Night Fun Night”: “Always together! Always Inside!” However, Kimmie’s recent promotion throws a monkey wrench into the tradition, and she meets a dashingly handsome British attorney, Richard Royce (Kevin Bishop).</description>
 	</show>
+
 
 	<show>
 
 		<!-- images, cdata relative path	
 		poster: portrait, medium
 		banner: landscape, small -->
-		<poster><![CDATA[<img src="assets/img/poster/reign1.jpg"/>]]></poster>
-		<banner><![CDATA[<img src="assets/img/banner/reignbanner1.jpg"/>]]></banner>
-		
-		<!-- main -->
-		<title>Reign</title>
-		<airPremiere>
-			<month>October</month>
-			<day>17</day>
-			<year>2013</year>
-		</airPremiere>
-		<airDay>Thursday</airDay>
-		<airTime>9:00 PM</airTime>
-		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
-
-		</genres>
-		<network>The CW</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
-	</show>
-
-	<show>
-
-		<!-- images, cdata relative path	
-		poster: portrait, medium
-		banner: landscape, small -->
-		<poster><![CDATA[<img src="assets/img/poster/sean1.jpg"/>]]></poster>
-		<banner><![CDATA[<img src="assets/img/banner/seanbanner1.jpg"/>]]></banner>
+		<poster><![CDATA[<img src="assets/img/poster/seansavestheworld1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/seansavestheworldbanner1.jpg"/>]]></banner>
 		
 		<!-- main -->
 		<title>Sean Saves the World</title>
@@ -1122,32 +718,16 @@
 		<airDay>Thursday</airDay>
 		<airTime>9:00 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2>Family</genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
 
 		</genres>
 		<network>NBC</network>
+		<description>Sean's a divorced dad who's trying to juggle it all. From his overbearing boss and offbeat employees at work - to his pushy mom and weekends with his teenage daughter at home - handling it all is no easy task. So when Ellie, his 14-year-old bundle of joy, moves in full-time, it's a whole new challenge.
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
+Never one to do anything halfway, Sean's intent on being the best dad ever - so he loads up on parenting how-to books and plans Pinterest-worthy family dinners. But it seems his company's new owner has decided Sean and his team should work longer hours, throwing a kink in his perfectly constructed homemaking plans. Ellie, a normal girl who wants to hang with her friends and eat on the run, sees this development as a plus. She loves her dad, but he's clearly going overboard.
 
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+From keeping his boss happy, his employees motivated and enduring his mother's tactless "advice" to raising a smart, grounded and healthy kid, it's going to be a growing experience, to say the least. But if anyone can swing it, it's Sean.M</description>
 	</show>
 
 	<show>
@@ -1168,32 +748,15 @@
 		<airDay>Wednesday</airDay>
 		<airTime>9:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2>Fantasy</genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Serial Drama</genre>
+			<genre>SciFi</genre>
+			<genre>Adaptation</genre>
+	
 
 		</genres>
 		<network>The CW</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>They are the next evolutionary leap of mankind, a generation of humans born with paranormal abilities — the Tomorrow People. Stephen Jameson stands at the crossroads between the world we know and the shifting world of the future. Up until a year ago, Stephen was a “normal” teenager — until he began hearing voices and teleporting in his sleep, never knowing where he might wake up. Now, Stephen’s issues have gone far beyond the usual teenage angst, and he is beginning to question his sanity. In desperation, Stephen decides to listen to one of the voices in his head, and it leads him to his first encounter with the Tomorrow People — John, Cara and Russell — a genetically advanced race with the abilities of telekinesis, teleportation and telepathic communication. The Tomorrow People are being hunted down by a paramilitary group of scientists known as Ultra. Led by Dr. Jedikiah Price, Ultra sees the Tomorrow People as a very real existential threat from a rival species, and the outcast group has been forced to hide out in an abandoned subway station just beneath the surface of the human world. Trading in secrets, Jedikiah offers Stephen the chance for a normal life with his family and best friend, Astrid, if he will help in the struggle to isolate and eradicate the Tomorrow People. On the other hand, Cara, John and Russell offer Stephen a different type of family and a home where he truly belongs. Unwilling to turn his back on humanity or the world of the Tomorrow People, Stephen sets out on his own path — a journey that could take him into the shadowy past to uncover the truth about his father’s mysterious disappearance, or into an unknown future with THE TOMORROW PEOPLE.</description>
 	</show>
 
 	<show>
@@ -1214,32 +777,17 @@
 		<airDay>Tuesday</airDay>
 		<airTime>9:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+
 
 		</genres>
 		<network>ABC</network>
+		<description>They say the third time's the charm, and reformed party girl Kate (Malin Akerman) is hoping that's true when she becomes the third wife of a slightly older man, Pete (Bradley Whitford). They fell into each others' arms (literally) at a karaoke bar, and flash forward a year later, Kate finds herself with an instafamily complete with three stepchildren and two ex-wives. But Kate is determined to make this work and become a part of the family no matter what.
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
+Diane (Marcia Gay Harden) is ex-wife number one, an intense and overachieving former Olympic athlete and the mother of twin teenagers Hillary (Bailee Madison) and Warren (Ryan Scott Lee). Diane is quick to convey her withering disapproval of Kate's barely tapped maternal instincts. Daughter Hillary is not a fan of her new step-mom either, despite Kate's attempts to win her trust. And son Warren may have an erotic fixation on his dad's beautiful, young spouse. Ex-wife number two, Jackie (Michaela Watkins), is mother to adopted son Bert (Albert Tsai), and can pull Pete's strings with her special blend of neurotic, new-ageyness.
 
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+Juggling all this baggage is uncharted territory for Kate, who finds support in the most unusual place - with her best friend, Meg (Natalie Morales), a party-hearty singleton and the only woman Kate knows who has less experience with kids than she has.</description>
 	</show>
 
 	<show>
@@ -1260,32 +808,13 @@
 		<airDay>Monday</airDay>
 		<airTime>8:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Bros</genre>
+	
 
 		</genres>
 		<network>CBS</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>WE ARE MEN is a single-camera comedy about four single guys living in a short-term apartment complex who unexpectedly find camaraderie over their many missteps in love. Carter, the youngest and most recent addition to the group, moved in after being ditched at the altar mid-ceremony, and is now eager to re-enter the dating scene and get on with his life with some guidance from his "band of brothers": Frank Russo, a successful middle-aged clothing manufacturer and four-time divorcée who still fancies himself a ladies man; Gil Bartis, a small business owner who was caught having the world's worst affair; and Stuart Weber, a speedo-wearing OB/GYN who's hiding his assets until his second divorce is settled. Abby is Frank's charming and attractive daughter, who stands as the one positive remnant from his failed relationships. Armed with a hot tub, pool-side barbeque and plenty of questionable advice, these losers in the marriage department take Carter under their wing to impart their own brand of wisdom about the opposite sex. </description>
 	</show>
 
 	<show>
@@ -1306,32 +835,19 @@
 		<airDay>Thursday</airDay>
 		<airTime>8:30 PM</airTime>
 		<genres>
-			<genre1>Comedy</genre1>
-			<genre2>Family</genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Comedy</genre>
+			<genre>Family</genre>
+		
 
 		</genres>
 		<network>NBC</network>
+		<description>Dan Yoder (Mike O'Malley, "Glee," "My Name Is Earl") and wife, Caroline (Mary McCormack, "In Plain Sight," "The West Wing"), think they finally have it made. Their daughter, Molly (Ella Rae Peck, "Deception," "Gossip Girl") - not the most diligent of students - has managed to graduate from high school and has been accepted to college. Her proud parents are looking forward to an empty nest and are breathing a heavy sigh of relief.
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
+		Across town, Molly's secret boyfriend, Junior Hernandez (Joey Haro, "Glee," "Awkward"), is graduating from his high school with top honors and has plans to go to Stanford. Parents Miguel (Ricardo Chavira, "Desperate Housewives") and Lisette (Justina Machado, "Six Feet Under," "ER") are bursting with pride. Everything seems like it is falling into place for them, but unbeknownst to both families, Molly and Junior are about to become parents themselves.
 
+		Once the teens break the big news, these two very different families are thrown together, which goes anything but smoothly... and the news that Molly and Junior are engaged to be married doesn't exactly make things better.
 
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		Dan and Miguel have the most difficult time adjusting to their new situation (and each other), while Caroline and Lisette take a softer approach to getting to know one another. When each of the parents realizes the kids are serious about making a life together, the adults exhale and begin to come to terms with this new blended family. Clearly, it will take understanding, humor, love and patience to make it all work.</description>
 	</show>
 
 	<show>
@@ -1352,32 +868,15 @@
 		<airDay>Sunday</airDay>
 		<airTime>10:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Drama</genre>
+			<genre>Supernatural</genre>
+			<genre>Fantasy</genre>
+			<genre>Adaptation</genre>
+	
 
 		</genres>
 		<network>Lifetime</network>
-
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
-
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
+		<description>Inspired by Melissa de la Cruz’s New York Times best-selling novel, "Witches of East End" centers on the mysterious Beauchamp family: free-spirited artist Joanna (Ormond) and her two grown daughters, wild-child bartender Freya (Dewan Tatum) and shy librarian Ingrid (Boston), both of whom are unaware that they are gifted (and cursed) with a magical birthright. Freya is recently engaged to the man of her dreams, wealthy playboy Dash Gardiner (Winter), but when she finds herself inexplicably drawn to Dash’s troubled, enigmatic brother Killian (DiTomasso), bizarre occurrences begin to manifest in her life. Meanwhile, Joanna’s long-estranged sister Wendy (Amick) shows up with a warning that could change the Beauchamps’ fate forever, forcing Joanna to reveal to her daughters that they are, indeed, immortal witches who possess great untapped powers. With their idyllic small-town life now turned upside down, and a formidable and ancient enemy intent on ending the Beauchamp family line, will Freya and Ingrid be able to accept their true potential before it is too late?</description>
 	</show>
 
 	<show>
@@ -1391,41 +890,24 @@
 		<!-- main -->
 		<title>MasterChef Junior</title>
 		<airPremiere>
-			<month>October</month>
-			<day>6</day>
+			<month>September</month>
+			<day>27</day>
 			<year>2013</year>
 		</airPremiere>
 		<airDay>Sunday</airDay>
-		<airTime>10:00 PM</airTime>
+		<airTime>8:00 PM</airTime>
 		<genres>
-			<genre1>Drama</genre1>
-			<genre2></genre2>
-			<genre3></genre3>
-			<genre4></genre4>
-			<genre5></genre5>
+			<genre>Game Show</genre>
+			<genre>Cooking</genre>
+
 
 		</genres>
-		<network>The CW</network>
+		<network>FOX</network>
+		<description>Move over grown-ups…the kids are taking over the kitchen! MASTERCHEF JUNIOR is a new culinary competition series for talented kids between the ages of 8 and 13 who love to cook. Based on the hugely successful U.K. format, the series extends the MASTERCHEF brand in the U.S. to include a younger group of aspiring masterchefs.
 
-		<!-- extras  -->
-		<imdb>imdb</imdb>
-		<metacritic></metacritic>
-		<tvDotCom></tvDotCom>
-		<hulu></hulu>
-		<netflix>netflix</netflix>
-		<amazon></amazon>
-		<comcast></comcast>
+		MASTERCHEF JUNIOR will give budding cooks the exciting opportunity to showcase their talent, culinary smarts and passion for food through a series of delicious challenges and cook-offs. Similar to MASTERCHEF, host and award-winning Chef Gordon Ramsay will be joined by restaurateur and winemaker Joe Bastianich (Del Posto, Eataly) and acclaimed chef Graham Elliot (Graham Elliot, Graham Elliot Bistro) on the MASTERCHEF JUNIOR judging panel. Together, the celebrated food experts will coach and encourage the promising hopefuls to cook like pros and teach them the tricks of the trade along the way.
+		</description>
 
-
-		<!-- unused  -->
-		<format></format>
-		<producer></producer>
-		<director></director>
-		<music></music>
-		<writer></writer>
-		<transTitle></transTitle>
 	</show>
-	
+
 </index>
-
-

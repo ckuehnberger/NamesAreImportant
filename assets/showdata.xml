@@ -910,4 +910,55 @@ Juggling all this baggage is uncharted territory for Kate, who finds support in 
 
 	</show>
 
+	<show>
+		<poster><![CDATA[<img src="assets/img/poster/sleepyhollow.jpg"/>]]></poster>
+		<banner><![CDATA[<img src="assets/img/banner/sleepyhollow.jpg"/>]]></banner>
+		
+		
+		<title>Sleepy Hollow</title>
+		<airPremiere>
+			<month>September</month>
+			<day>16</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Monday</airDay>
+		<airTime>9:00 PM</airTime>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+			<genre>Fantasy</genre>
+			<genre>Horror</genre>
+			<genre>Adaptation</genre>
+		</genres>
+		<network>FOX</network>
+		<description>In this modern-day twist on Washington Irving's classic, ICHABOD CRANE (Tom Mison, “Salmon Fishing in the Yemen”) is resurrected and pulled two and a half centuries through time to unravel a mystery that dates all the way back to the founding fathers. Revived alongside Ichabod is the infamous Headless Horseman who is on a murderous rampage in present-day Sleepy Hollow. Ichabod quickly realizes that stopping Headless is just the beginning, as the resurrected rider is but the first of the Four Horsemen of the Apocalypse and only one of the many formidable foes that Ichabod must face to protect not only Sleepy Hollow, but the world.
+
+As Ichabod finds himself in 2013's Sleepy Hollow, he discovers a town he no longer recognizes and grapples to understand. Teaming up with Lt. ABBIE MILLS (Nicole Beharie, “42,” “The Good Wife,” “Shame”), a young cop who has her own supernatural experiences, the two embark on a mission to stop the evil that has awoken along with Ichabod and that now is seeping into this once-sleepy town.</description>
+
+		
+	</show>
+
+	<show>
+		<poster><![CDATA[<img src="assets/img/poster/agentsofshield1.jpg"/>]]></poster>
+		<banner><![CDATA[<img src=""/>]]></banner>
+		
+		
+		<title>Marvel's Agents of S.H.I.E.L.D.</title>
+		<airPremiere>
+			<month>September</month>
+			<day>24</day>
+			<year>2013</year>
+		</airPremiere>
+		<airDay>Tuesday</airDay>
+		<airTime>8:00 PM</airTime>
+		<genres>
+			<genre>Drama</genre>
+			<genre>Action</genre>
+			<genre>Superheroes</genre>
+		</genres>
+		<network>ABC</network>
+		<description>Clark Gregg reprises his role of Agent Phil Coulson from Marvel’s feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward (Brett Dalton), highly trained in combat and espionage; Agent Melinda May (Ming-Na Wen), expert pilot and martial artist; Agent Leo Fitz (Iain De Caestecker), brilliant engineer; and Agent Jemma Simmons (Elizabeth Henstridge), genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye (Chloe Bennet).</description>
+
+	</show>
+
 </index>

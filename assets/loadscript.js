@@ -1,4 +1,4 @@
-window.onload = (function () {
+ $(document).ready(function() {
     $.get('assets/showdata.xml', function (d) {
 
         $(d).find('show').each(function () {

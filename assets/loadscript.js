@@ -1,4 +1,9 @@
-window.onload = (function () {
+var tagsList = [];
+
+$(document).ready(function() {
+
+
+
     $.get('assets/showdata.xml', function (d) {
 
         $(d).find('show').each(function () {
@@ -28,9 +33,12 @@ window.onload = (function () {
             html += '</ul>';
 
 
-            $('#showsection').append($(html));
+            $('#shows').append($(html));
+            
 
         });
+
+populateTags(tagsList);
     });
 });
 
@@ -38,6 +46,7 @@ function createGenreString(genres) {
     var string = "";
 
     $(genres).children().each(function () {
+        tagsList.push($(this).text());
         string += '<li class="genre">' + $(this).text() + '</li>';
     });
 

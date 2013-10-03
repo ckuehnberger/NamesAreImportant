@@ -125,7 +125,7 @@ ul.show {
 	font-size: 70%;
 }
 ul.show:hover .flipper, ul.show.hover .flipper , ul.show.flip .flipper {
-	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
 }
 
 ul.show, .front, .back {
@@ -134,15 +134,18 @@ ul.show, .front, .back {
 }
 /* flip speed goes here */
 .flipper {
-	transition: 0.6s;
-	transform-style: preserve-3d;
+	-webkit-transition: 0.6s;
+	-webkit-transform-style: preserve-3d;
 
 	position: relative;
 }
 
 /* hide back of pane during swap */
 .front, .back {
-	backface-visibility: hidden;
+	backface-visibility:hidden;
+	-webkit-backface-visibility:hidden; /* Chrome and Safari */
+	-moz-backface-visibility:hidden; /* Firefox */
+	-ms-backface-visibility:hidden; /* Internet Explorer */
 
 	position: absolute;
 	top: 0;

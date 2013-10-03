@@ -12,20 +12,24 @@
             var airTime = $show.find('airTime').text();
             var airDay = $show.find('airDay').text();
             var network = $show.find('network').text();
+            var description = $show.find('description').text();
+            var video = $show.find('video').text();
             //var genres = $show.find('genres').childNodes();
             var genres = $show.find('genres');
-            var html = '<ul class="show">';
+            var html = '<ul class="show"> <ul class="flipper"> <ul class="front">';
             html += '<li class="poster">' + poster + '</li>';
             html += '<li class="title">' + title + '</li>';
             html += '<li class="date"> ' + month + " " + day + ", " + year + '</li>';
             html += '<li class="airDateTime">' + airTime + ", " + airDay + '</li>';
+            html += '<button id="descBtn">' + 'description' + '</button>';
 
             var genreString = createGenreString(genres);
             console.log(genreString);
             html += genreString;
 
-            html += '<li class="network">' + network + '</li>';
-            html += '</ul>';
+            html += '<li class="network">' + network + '</li>' + '</ul>';
+            html += '<ul class="back">' + '<li class="description">' + description + '</li>';
+            html += '</ul> </ul>';
 
 
             $('#showsection').append($(html));
@@ -43,3 +47,5 @@ function createGenreString(genres) {
 
     return string;
 }
+
+document.querySelector("#descBtn").classList.toggle("flip");

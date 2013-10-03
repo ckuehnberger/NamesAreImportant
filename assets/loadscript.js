@@ -48,4 +48,3 @@ function createGenreString(genres) {
     return string;
 }
 
-document.querySelector("#descBtn").classList.toggle("flip");

@@ -22,14 +22,14 @@ $(document).ready(function() {
 
             var airDay = $show.find('airDay').text();
             var network = $show.find('network').text();
-<<<<<<< Updated upstream
+
                var description = $show.find('description').text();
             var video = $show.find('video').text();
             //var genres = $show.find('genres').childNodes();
-=======
+
             networkList.push(network);
 
->>>>>>> Stashed changes
+
             var genres = $show.find('genres');
             var html = '<ul class="show"> <ul class="flipper"> <ul class="front">';
             html += '<li class="poster">' + poster + '</li>';

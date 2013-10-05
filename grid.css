@@ -48,11 +48,12 @@ input {
 #tag-selector ul {
 	margin: 0px;
 	padding: 0px;
-	display: inline-block;
-	width: 90%;
+  float: left;
+	width: 30%;
+	height: 250px;
 }
 
-#tag-selector li { 
+#tag-selector ul li { 
 	background: #bebebe;
 	padding: 0px 3px;
 	margin: 0px 5px 2px 0px;
@@ -67,6 +68,12 @@ input {
 	background: #90d5c0;
 	cursor: pointer;
 }
+
+#tag-selector .active-search {
+	background: red;
+}
+
+/****SHOW CARDS****/
 
 #showsection {
 	margin-top: 20px;
@@ -173,18 +180,9 @@ h1 {
 	margin-right: 10px;
 }
 
-.genres {
-	display: inline;
-	margin-right: 5px;
-	padding: 2px;
-	border-radius: 5px;
-	background-color: gray;
-	color: white;
-}
-
-.genres:hover {
-	background-color: rgb(192,192,192);
-	color: black;
+.show .genres {
+	display: block;
+	color: #000;
 }
 
 .title {
@@ -209,9 +207,8 @@ li {
 
 /****SHOW CARDS****/
 
-ul.inactive {
-display: none;
-border: red;
+.show.inactive {
+	display: none;
 }
 
 /*

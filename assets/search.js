@@ -1,28 +1,19 @@
 window.onload = function(){
 	$("#tag-selector").on('click', 'li', function() {
-  toggleResults($(this).text());
-});
+		toggleTagState($(this));
+		siftShows($(this).text(), $(this).hasClass('active-search'));
+	});
 
 }
-	/*$("#tag-selector li").on("click",function() {
-		toggleResults(this.innerText);
-  }); */
 
-		
-
-/*This function scans the show tags on the DOM*/ 		
-function populateTags(tagsList) {
-	/*var tagsList = [];
-	$(".genre").each( function() {
-		tagsList.push(this.innerText)
-	});*/
+function populateTags(tagsList, category) {
 	console.log("Pre-unique: " +  tagsList.length)
 	tagsList = unique(tagsList);
 	console.log("Post-unique: " +  tagsList.length)
 
 	$.each(tagsList, function() {
 		console.log(this.toString());
-		$( "<li>" + this.toString() + "</li>" ).appendTo( "#tag-selector .tags" );
+		$( "<li>" + this.toString() + "</li>" ).appendTo( category );
 	});
 }
 
@@ -39,10 +30,24 @@ function unique(arr) {
     return result;
 }
 
-/*This function controls the visibility of search results.*/
-function toggleResults(tag) {
-	alert('clicked: ' + tag);
-$('.show').find("li:contains('" + tag + "')").parent().toggleClass('inactive');
-
+/*This function controls the state of the search tags.*/
+function toggleTagState(tag) {
+	tag.toggleClass("active-search");
 }
+
+function siftShows(tag, tagIsActive) {
+	if (tagIsActive) /*Check visible, hide everything that doesn't match tag*/ {
+		$(".show:not(.inactive)").not(":has(li:contains('" + tag + "'))").toggleClass('inactive');
+	} else { /*Check hidden, reveal everything that matches selected*/
+		var inactive = $('ul.inactive');
+		$("li.active-search").each( function() {
+			inactive = inactive.filter(":has(li:contains('" + $(this).text() + "'))");
+		});
+		inactive.each( function () {
+			$(this).toggleClass('inactive');
+		});
+
+		};
+}
+
 

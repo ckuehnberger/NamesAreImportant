@@ -1,4 +1,6 @@
 var tagsList = [];
+var networkList = [];
+var timeList = [];
 
 $(document).ready(function() {
 
@@ -15,11 +17,19 @@ $(document).ready(function() {
             var day = $show.find('day').text();
             var year = $show.find('year').text();
             var airTime = $show.find('airTime').text();
+            timeList.push(airTime);
+
+
             var airDay = $show.find('airDay').text();
             var network = $show.find('network').text();
+<<<<<<< Updated upstream
                var description = $show.find('description').text();
             var video = $show.find('video').text();
             //var genres = $show.find('genres').childNodes();
+=======
+            networkList.push(network);
+
+>>>>>>> Stashed changes
             var genres = $show.find('genres');
             var html = '<ul class="show"> <ul class="flipper"> <ul class="front">';
             html += '<li class="poster">' + poster + '</li>';
@@ -28,7 +38,7 @@ $(document).ready(function() {
             html += '<li class="airDateTime">' + airTime + ", " + airDay + '</li>';
             html += '<button id="descBtn">' + 'description' + '</button>';
 
-            var genreString = createGenreString(genres);
+            var genreString = createGenresString(genres);
             console.log(genreString);
             html += genreString;
 
@@ -42,16 +52,18 @@ $(document).ready(function() {
 
         });
 
-populateTags(tagsList);
+populateTags(tagsList, "#tag-selector #genres");
+populateTags(networkList, "#tag-selector #networks");
+populateTags(timeList, "#tag-selector #times");
     });
 });
 
-function createGenreString(genres) {
+function createGenresString(genres) {
     var string = "";
 
     $(genres).children().each(function () {
         tagsList.push($(this).text());
-        string += '<li class="genre">' + $(this).text() + '</li>';
+        string += "<li class='genres'>" + $(this).text() + '</li>';
     });
 
     return string;

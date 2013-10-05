@@ -118,8 +118,50 @@ ul.show {
 	box-shadow: 3px 3px 2px #888888;
 	display: inline-block;
 	margin: 10px 10px;
+	perspective: 1000; /*stuff for flipping  starting here*/
+}
+/* entire container, keeps perspective */
+
+	/* flip the pane when hovered */
+	ul.show:hover .flipper, ul.show.hover .flipper {
+		transform: rotateY(180deg);
+	}
+
+ul.show, .front, .back {
+	width: 320px;
+	height: 480px;
 }
 
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+}
+
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
+}
+
+.description {
+	font-size: 100%;
+}
 h1 {
 	text-align: center;
 	margin-bottom: 5px;

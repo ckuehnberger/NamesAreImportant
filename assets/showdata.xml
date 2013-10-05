@@ -63,12 +63,10 @@
 			<genre>Action</genre>
 			<genre>Drama</genre>
 			<genre>SciFi</genre>
-			<genre>Crime</genre>
+			<genre>Police Procedural</genre>
 		</genres>
 		<network>FOX</network>
-		<description>The year is 2048. Meet Detective JOHN KENNEX (Urban), a cop who survived one of the most catastrophic attacks ever made against the police department. After waking up from a 17-month coma, he can’t remember much — except that his partner was killed, he lost one of his legs and he is now outfitted with a highly sophisticated synthetic appendage. </description>
-
-		
+		<description>It's the year 2048, and Detective John Kennex wakes up from a 17 month coma. Outfitted with a synthetic appendage, John returns to duty and partners with Dorian, a flawed robot with human like emotions. Together they settle differences and solve crimes in the futuristic landscape. </description>
 	</show>
 
 	<show>
@@ -94,7 +92,7 @@
 			<genre>Sport</genre>
 		</genres>
 		<network>ABC</network>
-		<description>Terry Gannon Jr. (Maggie Lawson) was an All Star softball player until life threw her a couple curve balls: a baby, a lost college scholarship and a loser for a husband. After striking out on her own, Terry and her son Danny (Griffin Gluck) move in with her estranged father, Terry Sr. aka “The Cannon” (James Caan).</description>
+		<description>Terry was an All Star softball player until life threw her a couple curve balls: a baby, a lost college scholarship and a loser for a husband. After striking out on her own, Terry and her son Danny move in with her estranged father, Terry Sr. aka “The Cannon”.</description>
 
 	</show>
 
@@ -120,9 +118,13 @@
 
 		</genres>
 		<network>ABC</network>
-		<description>A chance meeting between Sara Hanley (Hannah Ware), a professional photographer, and Jack McAllister (Stuart Townsend), a top attorney, leads to an instant and undeniable attraction. Sara's husband, Drew Stafford (Chris Johnson), is a successful prosecutor with political aspirations, and the couple have a seven-year-old, Oliver. Unbeknownst to Sara, Jack is in-house counsel to a powerful but somewhat shady entrepreneur, Thatcher Karsten (James Cromwell), and is married to Thatcher's daughter, Elaine (Wendy Moniz). Elaine, secure in her relationship with Jack, is a smart, determined woman attempting to make her Chicago café a success on her own terms, as well as be a good mother to the couples' 16-year-old twins, Valerie (Elizabeth McLaughlin) and Victor (Braeden Lemasters). However Sara and Jack both realize something is missing in their marriages, and fight against the realization that they've met their soul mates in one another.</description>
+		<description>Sara Hanley is a beautiful photographer and Jack McAllister is a top attorney. One evening they meet at an art showing and sparks fly. Whether their meetings were coincedental or deliberate, both realize that something was missing in their marriages and that they've found their soul mates in one another. The drama unfolds as they juggle their lives, their families, and their relationships with each other.</description>
 
 	</show>
+
+
+
+
 
 	<show>
 
@@ -147,9 +149,10 @@
 
 		</genres>
 		<network>NBC</network>
-		<description>For decades, ex-government agent Raymond "Red" Reddington (James Spader, "The Office," "Boston Legal") has been one of the FBI's most wanted fugitives. Brokering shadowy deals for criminals across the globe, Red was known by many as "The Concierge of Crime." Now, he's mysteriously surrendered to the FBI with an explosive offer: He will help catch a long-thought-dead terrorist, Ranko Zamani, under the condition that he speaks only to Elizabeth "Liz" Keen (Megan Boone, "Law &amp; Order: Los Angeles"), an FBI profiler fresh out of Quantico. For Liz, it's going to be one hell of a first day on the job. </description>
+		<description>Known as "The Concierge of Crime", former government agent Raymond Reddington was a fugitive who brokered deals for criminals all across the globe. For decades he eluded capture... until he turned himself in with an offer: He will help capture some of the most dangerous terrorists the world has seen, but only if he speaks to new FBI profiler, Elizabeth Keen. </description>
 
 	</show>
+
 
 	<show>
 
@@ -176,6 +179,7 @@
 
 		</genres>
 		<network>FOX</network>
+		<description>BROOKLYN NINE-NINE is a workplace comedy that's not really about the job. It's about the men and women behind the badge – singing karaoke, grabbing a beer, and dabbling in each other's personal lives– all while protecting the fine people of Brooklyn </description>
 
 	</show>
 
@@ -203,7 +207,7 @@
 
 		</genres>
 		<network>TNT</network>
-		<description>BROOKLYN NINE-NINE is a workplace comedy that's not really about the job. It's about the men and women behind the badge – singing karaoke, grabbing a beer, and dabbling in each other's personal lives– all while protecting the fine people of Brooklyn</description>
+		<description>In towns all across America, violent crime cases often go cold. In Cold Justice, Kelly Siegler, a former prosecutor and Yolanda McClary, a former crime scene investigator put their vast knowledge and experience to work helping law enforcement and victim's families get to the truth.</description>
 
 	</show>
 
@@ -229,7 +233,7 @@
 			<genre>Work</genre>
 		</genres>
 		<network>CBS</network>
-		<description>Academy Award winner Robin Williams returns to series television in THE CRAZY ONES, a single-camera workplace comedy about a larger-than-life advertising genius whose unorthodox methods and unpredictable behavior would get him fired... if he weren't the boss. Simon Roberts is the head of a powerful agency, with the biggest clients and brands in the world, but even more important to him is having his daughter Sydney by his side. As his partner, Sydney is Simon's exact opposite - focused, organized and eager to make a name for herself, but also too busy parenting her father, which she'd resent if he wasn't so brilliant at what he does. Joining them in the firm are the dashing and talented Zach; art director Andrew, who's as hard-working as he is neurotic; and the beautiful and deceptively smart assistant Lauren. With his team and his daughter behind him, Simon continues to set the advertising world on fire, and it looks like they are definitely buying what these crazy ones are selling. </description>		
+		<description>Simon Roberts is an advertising genius whose unorthodox methods and unpredictable behavior would normally get someone fired... if they weren't the boss. Sydney Roberts, his daughter is the exact opposite; focused and organized and always watching out for her father, she's a hardworker with something to prove. Head of a powerful agency with powerful clients and brands, Simon, Sydney, and the rest of the firm get into all manner of crazy antics. </description>		
 	</show>
 
 	<show>
@@ -255,7 +259,7 @@
 
 		</genres>
 		<network>FOX</network>
-		<description>From Seth MacFarlane, Alec Sulkin and Wellesley Wild, the creatively outrageous minds behind last year's highest-grossing feature comedy, “Ted,” and FOX's hit animated series FAMILY GUY, DADS explores the often treacherous terrain of the father-son landscape. The multi-camera comedy series follows two successful guys – and childhood best friends – now in their mid-30s, whose relatively stable lives get turned upside down when their inappropriate and pain-in-the-neck patriarchs move in.</description>
+		<description>Dads explores the often treacherous terrain of the father-son landscape. The comedy series follows two successful guys – and childhood best friends – now in their mid-30s, whose relatively stable lives get turned upside down when their inappropriate and pain-in-the-neck patriarchs move in. </description>
 	
 		
 	</show>
@@ -288,7 +292,7 @@
 
 		</genres>
 		<network>NBC</network>
-		<description>It's the late 19th century, and the mysterious Dracula has arrived in London, posing as an American entrepreneur who wants to bring modern science to Victorian society. He's especially interested in the new technology of electricity, which promises to brighten the night - useful for someone who avoids the sun. But he has another reason for his travels: he hopes to take revenge on those who cursed him with immortality centuries earlier. Everything seems to be going according to plan... until he becomes infatuated with a woman who appears to be a reincarnation of his dead wife.</description>
+		<description>It's the late 19th century, and the mysterious Dracula has arrived in London, posing as an American entrepreneur who wants to bring modern science to Victorian society. His reason for his travels is simple: he hopes to take revenge on those who cursed him with immortality centuries earlier. Everything seems to be going according to plan... until he becomes infatuated with a woman who appears to be a reincarnation of his dead wife.</description>
 
 	</show>
 
@@ -318,11 +322,8 @@
 
 		</genres>
 		<network>FOX</network>
-		<description>Three brothers, one Army, but absolutely no fighting!
-
-ENLISTED is an irreverent but heartfelt single-camera comedy about three brothers on a small Florida Army base and the group of misfits who surround them.
-
-Charming, funny and a natural-born leader, Sergeant PETE HILL (Geoff Stults, "Ben and Kate," "The Finder") was on a path for a huge military career until one mistake overseas got him booted stateside to Fort McGee, the base in Florida where his two younger brothers are stationed. Now, as head of their platoon, Pete must serve both as big brother and military boss. Corporal DERRICK HILL (Chris Lowell, "Private Practice," "Veronica Mars") is the middle brother - smart and sarcastic, he likes to stir up trouble and doesn't really care about being a soldier. Private RANDY HILL (Parker Young, "Suburgatory"), on the other hand, loves it. He's the hyper-enthusiastic, hyper-goofy - just hyper - youngest brother who wants to be the gung-ho "GI Joe" military ideal. </description>
+		<description>
+ENLISTED is a comedy about three brothers who wind up together on a small Florida Army base. With wildly differing personalities, the three try to survive the trials of army life, brotherhood, and the trouble stirred up by the group of misfits who surround them.</description>
 
 		
 	</show>
@@ -351,10 +352,11 @@ Charming, funny and a natural-born leader, Sergeant PETE HILL (Geoff Stults, "Be
 
 		</genres>
 		<network>ABC</network>
-		<description>Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the ‘80s. For geeky 11-year old Adam (Sean Giambrone) these were his wonder years and he faced them armed with a video camera to capture all the crazy. The Goldbergs are a loving family like any other, just with a lot more yelling. Mom Beverly (Wendi McLendon-Covey) is a classic “smother;” an overbearing, overprotective matriarch who rules this brood with 100% authority and zero sense of boundaries. Dad Murray (Jeff Garlin) is gruff, hot-tempered and trying to parent without screaming. Sister Erica (Hayley Orrantia) is 17, hot, terrifying and not one to mess with. Barry (Troy Gentile) is 16, an overly emotional teen with severe middle child syndrome. Adam (Sam Giambrone) is the youngest, a camera-wielding future director who’s crushing on an older woman. Rounding out the family is beloved grandfather Al “Pops” Solomon (George Segal), the wild man of the clan, a shameless Don Juan who’s schooling Adam in the ways of love. When Pops buys a new sports car and offers his Caddy to middle child Barry, it’s enough to drive this already high-strung family to the brink of chaos.</description>
+		<description>The Goldbergs follows a family during the 80's through the eyes of Adam, the youngest, and his video camera. </description>
 
 	</show>
 
+ 
 	<show>
 
 		<!-- images, cdata relative path	
@@ -377,13 +379,14 @@ Charming, funny and a natural-born leader, Sergeant PETE HILL (Geoff Stults, "Be
 
 		</genres>
 		<network>HBO</network>
-		<description>  In his first starring series role, Stephen Merchant portrays Stuart, a web designer who recently relocated to LA from England in hopes of finding excitement, romance, and maybe even a soul mate. Working out of his LA home, Stuart has an easy rapport with an attractive roommate named Jessica (Christine Woods), though it is clear she's not romantically interested in him. Half as charming as he thinks he is – and twice as desperate – Stuart is obsessed with infiltrating the glamorous world of beautiful people, and doggedly hits the LA social scene in the company of pals Wade (Nate Torrence), who's in the throes of a separation from his wife, and Kives (Kevin Weisman), a charismatic paraplegic who fares far better with the ladies than Stuart or Wade.</description>
+		<description>Stuart is a web designer who relocated from England to LA. Follow along as the awkward Stuart dives into the LA social scene head-first and searches desperately for excitement, love, or a soul mate.</description>
 
 		
 	</show>
 
 
-	<show>
+
+<show>
 
 		<!-- images, cdata relative path	
 		poster: portrait, medium
@@ -406,9 +409,10 @@ Charming, funny and a natural-born leader, Sergeant PETE HILL (Geoff Stults, "Be
 
 		</genres>
 		<network>CBS</network>
-		<description>HOSTAGES, from executive producer Jerry Bruckheimer, stars Emmy Award winner Toni Collette and Golden Globe Award winner Dylan McDermott in a high-octane suspense drama about Dr. Ellen Sanders, a premiere surgeon thrust into a chilling political conspiracy when her family is taken hostage by rogue FBI Agent Duncan Carlisle. Ellen and her family are held captive in their home by Carlisle, a desperate man doing the wrong thing for the right reasons, who orders her to assassinate the President when she operates on him. His highly skilled accomplices include his brother-in-law Kramer, whose loyalty to Carlisle will be tested; quick-tempered and intimidating Archer, an ex-military man with a razor-sharp tongue; and the only woman involved, Sandrine, a mysterious last-minute replacement to the team. With her family's life in peril, Ellen faces an incomprehensible moral dilemma in order to save her overbearing husband Brian, her secretive daughter Morgan and her not-so-innocent son Jake. In this high-stakes standoff between Ellen and Carlisle, fraught with tremendous national and personal consequences, the choices between right and wrong become even more blurred.</description>
+		<description>A rogue FBI agent and his team take a surgeons's family hostage and orders her to kill the United States President, whom she is set to operate on the following day. When the stakes are kill or be killed, what will Dr. Ellen Sanders choose?</description>
 		
 	</show>
+
 
 	<show>
 
@@ -435,9 +439,10 @@ Charming, funny and a natural-born leader, Sergeant PETE HILL (Geoff Stults, "Be
 
 		</genres>
 		<network>NBC</network>
-		<description>n the gritty world of the NYPD, no one's tougher than Det. Robert Ironside (Blair Underwood, "In Treatment"). He is fearless; his instincts are second to none, and those around him must stay on their toes if they want to keep up. When his spine was shattered by a bullet two years ago, he swore he'd never let a wheelchair slow him down.
+		<description>Robert Ironside is a Detective in the gritty world of the NYPD. Despite having his spine shattered by a bullet just two years prior, he continues to serve among the best of them. Gritty, fearless, and with instincts second to none, follow Ironside and his handpicked team as they clean up the streets of New York.</description>
 
-Ironside and his trusted, handpicked team of detectives each offer a unique background, perspective and skill set. Comprising the team are Virgil (Pablo Schreiber, "The Wire"), a man who wrestles with the dichotomy of being one of NYPD's toughest cops in the city, yet a loving family man at home where he imparts life lessons to his children that he does not necessarily follow in the line of duty; Holly (Spencer Grammer, "Greek"), a strong, feisty detective who loves the rush of being undercover and the danger that goes with the job and who has mysterious family ties to the Brooklyn underworld; and Teddy (Neal Bledsoe, "Smash"), a rich, highly-educated young cop who has never been good with authority and is connected in a way that only those born into wealth enjoy. Their boss, Capt. Ed Rollins (Kenneth Choi, "Sons of Anarchy"), calm and pragmatic, handles situations with a level head and cool demeanor. He and Ironside share a mutual respect and admiration for each other despite their push-pull relationship.</description>
+
+
 
 	</show>
 
@@ -464,9 +469,9 @@ Ironside and his trusted, handpicked team of detectives each offer a unique back
 
 		</genres>
 		<network>ABC</network>
-		<description>What would you do if you won the lottery? How would it change your life? Follow a group of seven gas station employees in Queens, New York, who have been chipping into a lottery pool for years, never thinking they'd actually win. They need to be careful what they wish for, because while the money could solve problems for each of them, it will forever change the close-knit bonds these friends have formed, in ABC's new drama, "Lucky 7".
+		<description>A group of seven gas station employees in Queens, New York have been chipping into a lottery pool for years, never thinking they'd actually win. Follow along as friendship is tested when the impossible happens and they win. Money may solve some problems, but it always creates new ones.
+ </description>
 
-Nestled in the culturally diverse neighborhood of Astoria, the Gold Star Gas N' Shop is home to a surrogate family of co-workers whose lives will be transformed by an unexpected lottery win. Aside from the money, relationships will change as the trust between two brothers will be uprooted, budding romances will develop and secrets will come to the surface. </description>
 
 		
 	</show>
@@ -495,7 +500,7 @@ Nestled in the culturally diverse neighborhood of Astoria, the Gold Star Gas N' 
 
 		</genres>
 		<network>Showtime</network>
-		<description>MASTERS OF SEX is a one-hour drama starring Emmy® and BAFTA Award nominee Michael Sheen and acclaimed actress Lizzy Caplan, who will portray the real-life pioneers of the science of human sexuality, William Masters and Virginia Johnson. The series chronicles the unusual lives, romance, and pop culture trajectory of Masters and Johnson. Their research touched off the sexual revolution and took them from a midwestern teaching hospital in St. Louis to the cover of Time magazine and nearly a dozen appearances on Johnny Carson's couch.</description>
+		<description>William Masters and Virginia Johnson are the real-life pioneers of the science of human sexuality. Follow along in this drama that follows their unusual lives, romances, and the pop culture that surrounds them as sex is taken from the bedroom and into the living room, taking hold of media and never letting it go.</description>
 	</show>
 
 	<show>
@@ -521,7 +526,9 @@ Nestled in the culturally diverse neighborhood of Astoria, the Gold Star Gas N' 
 
 		</genres>
 		<network>CBS</network>
-		<description>THE MILLERS stars Will Arnett as Nathan Miller, a recently divorced local roving news reporter looking forward to living the singles life until his parents' marital problems unexpectedly derail his plans. After Nathan finally breaks the news of his divorce to his parents, Carol and Tom, his father is inspired to follow suit and stuns the family when he leaves his wife of 43 years. Already in shock, Nathan is even more aghast when his meddlesome mom decides to move in with him. Meanwhile, his absent-minded dad imposes upon Nathan's sister Debbie, her husband Adam and their daughter. Nathan's best friend and news cameraman Ray was excited to be Nathan's wingman in the dating scene, but Carol manages to even cramp his style. Now, as Nathan and his sister settle in with their truly impossible parents, they both wonder just how long the aggravating adjustment period is going to last.</description>
+		<description>Nathan Miller is recently divorced and looking forward to the singles life... that is until his parent's derail his plans. When he finally breaks news of his divorce, his father Tom is inspired to follow suit and stuns the family when he leaves Carol, his wife of 43 years. His absent-minded mom then decides to move in with Nathan, while his father imposes upon Nathan's little sister Debbie.</description>
+
+
 	</show>
 
 	<show>
@@ -548,7 +555,7 @@ Nestled in the culturally diverse neighborhood of Astoria, the Gold Star Gas N' 
 
 		</genres>
 		<network>NBC</network>
-		<description>Look who's making the news again! One of NY's most beloved news anchors, Mike Henry (Michael J. Fox, "Spin City", "Family Ties"), put his career on hold to spend more time with his family and focus on his health after he was diagnosed with Parkinson's. But now five years later, with the kids busy growing up and Mike growing restless, it just might be time for him to get back to work. Having never wanted Mike to leave in the first place, his old boss Harris Green (Wendell Pierce, "Treme", "The Wire") jumped at the chance to get him back on TV. The trick, as it's always been, was to make Mike think it was his idea. After several - okay, many - failed attempts, Mike's family, anxious to see him out of the house, finally succeeded in getting him to "run into" Green. Now their plan is in motion. He'll be back to juggling home, family and career, just like the old days - only better. </description>
+		<description>Mike Henry puts his career on hold to spend more time with his family and focus on his health after he was diagnosed with Parkinson's. But now five years later, with the kids busy growing up and Mike growing restless, it just might be time for him to get back to work. Having never wanted Mike to leave in the first place, his old boss Harris Green jumped at the chance to get him back on TV. </description>
 
 		
 	</show>
@@ -577,7 +584,7 @@ Nestled in the culturally diverse neighborhood of Astoria, the Gold Star Gas N' 
 
 		</genres>
 		<network>CBS</network>
-		<description>From hit-maker Chuck Lorre comes his next big comedy‐an irreverent and outrageous take on true family love‐and dysfunction. Newly sober single mom Christy struggles to raise two children in a world full of temptations and pitfalls. Testing her sobriety is her formerly estranged mother, now back in Christy's life and eager to share passive-aggressive insights into her daughter's many mistakes. </description>
+		<description>Newly sober single mom Christy struggles to raise two children in a world full of temptations and pitfalls. Testing her sobriety is her formerly estranged mother, now back in Christy's life and eager to share passive-aggressive insights into her daughter's many mistakes. </description>
 	</show>
 
 	<show>
@@ -606,7 +613,7 @@ Nestled in the culturally diverse neighborhood of Astoria, the Gold Star Gas N' 
 
 		</genres>
 		<network>ABC</network>
-		<description>In Victorian England, young and beautiful Alice (Sophie Lowe) tells an impossible tale of a strange new land that exists on the other side of a rabbit hole. An invisible cat, a hookah-smoking caterpillar and playing cards that can talk are just some of the fantastic things she's seen during her adventure. Surely this troubled girl must be insane. Her doctors intend to cure her with a treatment that will make her forget—everything. Alice seems ready to put it all behind her, especially the painful memory of the genie she fell in love with and lost forever, the handsome and mysterious Cyrus (Peter Gadiot). But in her heart Alice knows this world is real, and just in the nick of time the sardonic Knave of Hearts (Michael Socha) and the irrepressible White Rabbit (John Lithgow) arrive to save her from her fate. Together the trio will take a tumble down the rabbit hole to a Wonderland where nothing is impossible.</description>
+		<description>In Victorian England, young and beautiful Alice (Sophie Lowe) tells an impossible tale of a strange new land that exists on the other side of a rabbit hole. An invisible cat, a hookah-smoking caterpillar and playing cards that can talk are just some of the fantastic things she's seen during her adventure.</description>
 
 	</show>
 
